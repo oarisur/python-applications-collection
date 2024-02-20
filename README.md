@@ -4,7 +4,7 @@ Welcome to the "python-applications-collection" repository! This repository cont
 
 ## Applications
 
-1. **Hockey Team management:** An application to create and manage hockey teams participating in a youth hockey cup.
+1. **Hockey Team Management:** An application to create and manage hockey teams participating in a youth hockey cup.
 
 ## Getting Started
 
