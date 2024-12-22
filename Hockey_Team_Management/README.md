@@ -1,4 +1,6 @@
 # Hockey Team Management
+![image](https://github.com/user-attachments/assets/b3aa563e-a16b-4205-82c1-2de0ba816603)
+
 
 "Hockey Team Management" is a small but versatile program that allows registering and managing teams participating in a youth hockey cup event. It allows basic CRUD functionalities, as well as shows useful statistics.
 
